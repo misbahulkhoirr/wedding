@@ -1,0 +1,10 @@
+<?php
+require('../header.php');
+require('../nav.php');
+require('jumbotron.php');
+require('../container.php');
+require('angpao.php');
+require('../protocol.php');
+require('bukutamu.php');
+require('../footer.php');
+?>
