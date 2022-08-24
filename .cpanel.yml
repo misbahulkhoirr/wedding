@@ -3,3 +3,15 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/u1705195/public_html/
     - /bin/cp -R images $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R elma&qbot $DEPLOYPATH
+    - /bin/cp -R qbot&elma $DEPLOYPATH
+    - /bin/cp -R ely&makhrus $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
+    - /bin/cp -R music $DEPLOYPATH
+    - /bin/cp container.php $DEPLOYPATH
+    - /bin/cp footer.php $DEPLOYPATH
+    - /bin/cp header.php $DEPLOYPATH
+    - /bin/cp koneksi.php $DEPLOYPATH
+    - /bin/cp nav.php $DEPLOYPATH
+    - /bin/cp protocol.php $DEPLOYPATH
