@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/u1705195_qbotsista/public_html/
+    - export DEPLOYPATH=/home/u1705195/public_html/
     - /bin/cp -R images $DEPLOYPATH
